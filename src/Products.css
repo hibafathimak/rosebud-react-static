@@ -1,0 +1,21 @@
+.parallax h2,.parallax h4{
+    font-family: "Lora", serif;
+    font-weight:400;
+    color: white;
+    padding-top: 10px;
+}
+.badge{
+    z-index:5;
+    position:absolute;
+    right:15px;
+    top:6px;
+    font-size:202px;
+    padding:20px;
+}
+.parallax{
+    height:330px;
+    background:url("https://rosebud.qodeinteractive.com/wp-content/uploads/2018/02/h1-parallax-img-1.jpg");
+    background-attachment:fixed;
+    background-position:center;
+    background-size: cover;
+}

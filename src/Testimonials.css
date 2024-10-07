@@ -1,0 +1,20 @@
+.testimonial{
+    color: white;
+    font-family: "Mr De Haviland", cursive;
+     text-transform: capitalize;
+      font-size: 50px;
+      font-weight: 400;
+
+}
+.authorName{
+    color: white;
+    font-family: "Lora", serif;
+    font-weight: 400;
+}
+.entry-title{
+    color: white;
+    font-family: "Lora", serif;
+    font-weight: 400;
+    font-size: 40px;
+
+}
